@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nextButton" type="id" />
+    <item name="scoreButton" type="id" />
+    <item name="textview_score" type="id" />
+    <item name="score_report" type="id" />
+</resources>

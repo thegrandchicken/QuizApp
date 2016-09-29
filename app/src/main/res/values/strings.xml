@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="trueButton_text">True</string>
+    <string name="falseButton_text">False</string>
+    <string name="question_cats">1. Cats eat fish.</string>
+    <string name="question_dracula">2. Dracula likes blood.</string>
+    <string name="toast_correct">Correct!</string>
+    <string name="toast_incorrect">Incorrect!</string>
+    <string name="question_dogs">3. Dogs eat grass.</string>
+    <string name="question_blackCat">4. Black cats are the best cats.</string>
+    <string name="nextButton_text">Next</string>
+    <string name="scoreText">"Score: "</string>
+    <string name="previousButton_text">Prev</string>
+    <string name="button_cheat">Cheat</string>
+    <string name="sureButton_text">I am a cheater</string>
+    <string name="return_to_main">Return to Main</string>
+    <string name="toast_cheater">CHEATER</string>
+</resources>
